@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Paulius, an Entrepreneur from Vilnius, Lithuania.\n![paulius](http://www.noriunoriunoriu.lt/uploads/text/001/028/cbuilder/paulius-517rqq.jpg)\nTest 1? %[Test 1](postback:test1me) %[Test 2 Me](postback:test_22_me)",
-    "HELLO": "Hey, I'm so glad you set PauliusBot up! Do you want to tell Paulius that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HELLO": "111 Hey, I'm so glad you set PauliusBot up! Do you want to tell Paulius that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @paulrims so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Paulius](http://bit.ly/pauliusbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "TEST1ME": "Test 1 passed",
